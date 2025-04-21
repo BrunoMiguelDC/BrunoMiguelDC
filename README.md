@@ -8,9 +8,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunomigueldc&show_icons=true&theme=dark&locale=en&layout=compact" alt="brunomigueldc" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunomigueldc&theme=dark" alt="brunomigueldc" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunomigueldc&show_icons=true&theme=dark&locale=en" alt="brunomigueldc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunomigueldc&theme=dark" alt="brunomigueldc" /></p>
+
 
 <h3 align="left">📫 How to reach me:</h3>
 
